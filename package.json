@@ -1,8 +1,8 @@
 {
-  "name": "Resume",
+  "name": "resume",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/nikub444/Resume/",
+  "homepage": "https://github.com/nikub444/resume/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
